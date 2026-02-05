@@ -96,3 +96,7 @@ If you’re working on something interesting or looking to collaborate, feel fre
 ---
 
 <p align="center"><em><strong>“From commit to production, DevOps owns the outcome.”</strong></em> 🚀</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanketnankar&label=Profile%20Views&color=0B6E4F&style=for-the-badge" />
+</p>
