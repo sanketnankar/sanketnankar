@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Sanket Nankar</h1>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF4D4D&center=true&vCenter=true&width=650&lines=Cloud+and+DevOps+Professional" / </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</p>
+<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" /></p>
 
 # 🚀 About Me
 
@@ -68,11 +66,12 @@ Cloud & DevOps professional passionate about building reliable systems and helpi
 # 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AZ--900_Microsoft_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AZ--104_Microsoft_Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CKA_Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CKAD_Certified_Kubernetes_Application_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AZ--900_Microsoft_Azure_Fundamentals-8BC34A?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AZ--104_Microsoft_Azure_Administrator-8BC34A?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CKA_Certified_Kubernetes_Administrator-8BC34A?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CKAD_Certified_Kubernetes_Application_Developer-8BC34A?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
+
 
 # 📬 Let’s Collaborate
 
